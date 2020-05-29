@@ -1,4 +1,4 @@
-# springer_book_downlaoder
+# springer_book_downloader
 Spriner released some free books for so many  different branches.So created a web interface to download those books easily using flask.  
 
 1. Clone repository<br>
