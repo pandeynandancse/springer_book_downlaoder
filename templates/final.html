@@ -1,0 +1,40 @@
+
+
+{% extends "layout2.html" %}
+
+
+
+{% block css %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+{% endblock%}
+
+
+
+
+
+
+{% block body %}        
+        
+
+
+
+    <!-- Navigation -->
+     <center><strong>Are you Ready to Download?</strong>  <br>
+  
+          <a class="btn btn-primary float-left" href="{{ur}}" mx="2" > Yes Download {{category}}</a>
+        <br>
+          <br>
+
+          <a class="btn btn-primary float-left" href="/" mx="2"> No, Take me Home</a>
+          
+
+    </center>
+
+ <hr>
+
+
+
+
+{% endblock %}
+
+
