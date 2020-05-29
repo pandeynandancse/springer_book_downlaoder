@@ -1,5 +1,5 @@
 # springer_book_downlaoder
-Spriner released some free books for so many  different branches.So created a web interface to downlaod those books easily using flask.  
+Spriner released some free books for so many  different branches.So created a web interface to download those books easily using flask.  
 
 1. Clone repository<br>
 2. Windows user double click on 'activation.bat' file and Linux user type 'python main.py'<br>
