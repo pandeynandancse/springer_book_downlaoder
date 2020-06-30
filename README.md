@@ -31,10 +31,10 @@ There are more than 400 books of different categories so search for particular r
 ```
 
 ├── static
-├    ├── css
-├    ├── img
-├    ├── js
-├    ├── vendor
+|    ├── css
+|    ├── img
+|    ├── js
+|    ├── vendor
 ├── templates
 ├── Procfile
 ├── README.md
