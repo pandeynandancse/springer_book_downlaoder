@@ -105,7 +105,7 @@ If you'd like to do some contribution, feel free to do so by opening a pull requ
 
 
 
-## COntributor
+## Contributor
 [![Nandan Pandey](https://qph.fs.quoracdn.net/main-thumb-189737418-200-jmwzsixdznlgemnejuecomukeluqkgzd.jpeg)](https://pandeynandancse.github.io) |
 -|
 [Nandan Pandey](https://pandeynandancse.github.io) |)
