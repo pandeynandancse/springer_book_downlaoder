@@ -22,7 +22,7 @@ if "%majorVersion%"=="2" (
 )
 
 ::-- Run main program at virtual environment
-python main.py
+python app.py
 
 ::-- Deactivate virtual environment
 call .venv\Scripts\deactivate.bat
